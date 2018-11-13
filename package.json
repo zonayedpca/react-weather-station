@@ -1,6 +1,7 @@
 {
   "name": "react-weather-station",
   "version": "0.1.0",
+  "homepage": "https://zonayedpca.github.io/react-weather-station",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
