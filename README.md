@@ -9,5 +9,3 @@ This project is a weather application that calls the OpenWeatherMap API to rende
 
 ## Contribution
 - Mahen Mondal
-- Ramazan Ahmady
-- Zonayed Ahmed
